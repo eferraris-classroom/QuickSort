@@ -5,7 +5,7 @@
 int main()
 {
 
-    int lista[] ={5,8,9,1,4,2,3,6,75,7,4,12};
+    int lista[] ={5,2,7,3,9,4,8};
     int size = sizeof(lista)/sizeof(int);
 
     printf("Lista Desordenada \n");
